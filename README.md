@@ -1,4 +1,4 @@
-
+![download (2)](https://github.com/DhakshanaMoorthyRDM/Hate-Tweet-Detector/assets/121345776/810c6314-9060-4aec-87e3-9b9f34dd0f93)
 # Hate-Tweet-Detector
 
 This Python project analyzes Twitter data to identify hate speech and creates a machine learning model based on the dataset. The dataset is available on Kaggle and contains labels indicating whether the tweets are hate speech or not. Label 1 indicates hate speech, while label 0 indicates non-hate speech tweets.
